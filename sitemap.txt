@@ -1,4 +1,4 @@
-http://example.com/2024/04/27/hello-world/
+http://example.com/post/undefined.html
 http://example.com/tags/index.html
 http://example.com/categories/index.html
 http://example.com/
