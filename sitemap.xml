@@ -2,7 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/post/undefined.html</loc>
+    <loc>http://jialuyu.top/about/index.html</loc>
+    
+    <lastmod>2024-04-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://jialuyu.top/comment/index.html</loc>
+    
+    <lastmod>2024-04-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://jialuyu.top/gallery/index.html</loc>
+    
+    <lastmod>2024-04-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://jialuyu.top/archievs/index.html</loc>
+    
+    <lastmod>2024-04-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://jialuyu.top/music/index.html</loc>
+    
+    <lastmod>2024-04-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://jialuyu.top/links/index.html</loc>
     
     <lastmod>2024-04-27</lastmod>
     
@@ -11,7 +56,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>http://jialuyu.top/categories/index.html</loc>
     
     <lastmod>2024-04-27</lastmod>
     
@@ -20,7 +65,16 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>http://jialuyu.top/tags/index.html</loc>
+    
+    <lastmod>2024-04-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://jialuyu.top/posts/4a17b156/</loc>
     
     <lastmod>2024-04-27</lastmod>
     
@@ -30,23 +84,23 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
-    <lastmod>2024-04-27</lastmod>
+    <loc>http://jialuyu.top/</loc>
+    <lastmod>2024-04-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://example.com/tags/node-js/</loc>
-    <lastmod>2024-04-27</lastmod>
+    <loc>http://jialuyu.top/tags/node-js/</loc>
+    <lastmod>2024-04-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/hexo/</loc>
-    <lastmod>2024-04-27</lastmod>
+    <loc>http://jialuyu.top/tags/hexo/</loc>
+    <lastmod>2024-04-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -54,8 +108,8 @@
 
   
   <url>
-    <loc>http://example.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2024-04-27</lastmod>
+    <loc>http://jialuyu.top/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2024-04-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
