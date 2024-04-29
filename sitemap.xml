@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://jialuyu.top/posts/dbb513eb/</loc>
+    
+    <lastmod>2024-04-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://jialuyu.top/posts/382a0fa9/</loc>
+    
+    <lastmod>2024-04-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://jialuyu.top/about/index.html</loc>
     
     <lastmod>2024-04-28</lastmod>
@@ -85,7 +103,7 @@
 
   <url>
     <loc>http://jialuyu.top/</loc>
-    <lastmod>2024-04-28</lastmod>
+    <lastmod>2024-04-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -93,14 +111,21 @@
   
   <url>
     <loc>http://jialuyu.top/tags/node-js/</loc>
-    <lastmod>2024-04-28</lastmod>
+    <lastmod>2024-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://jialuyu.top/tags/hexo/</loc>
-    <lastmod>2024-04-28</lastmod>
+    <lastmod>2024-04-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://jialuyu.top/tags/%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2024-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -109,7 +134,7 @@
   
   <url>
     <loc>http://jialuyu.top/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2024-04-28</lastmod>
+    <lastmod>2024-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
