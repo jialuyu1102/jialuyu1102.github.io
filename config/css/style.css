@@ -1,0 +1,16 @@
+/* 导航栏做居中处理 */
+#nav-right{
+    flex:1 1 auto;
+    justify-content: flex-end;
+    margin-left: auto;
+    display: flex;
+    flex-wrap:nowrap;
+}
+
+/*新版轮播图*/
+#home_top {
+    margin: 1rem auto 0;
+    padding: 0px 15px;
+    max-width: 1170px;
+    width: 100%;
+}
