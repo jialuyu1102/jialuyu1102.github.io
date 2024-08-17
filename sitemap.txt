@@ -1,8 +1,8 @@
-http://example.com/posts/69c3279c.html
-http://example.com/posts/be4eff35.html
-http://example.com/posts/d28b8a6d.html
 http://example.com/posts/3c95784c.html
 http://example.com/posts/fb60fea1.html
+http://example.com/posts/d28b8a6d.html
+http://example.com/posts/be4eff35.html
+http://example.com/posts/69c3279c.html
 http://example.com/posts/8ed2565f.html
 http://example.com/posts/c24675b4.html
 http://example.com/posts/1f778ab5.html
